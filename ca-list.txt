@@ -1,0 +1,6 @@
+[
+  {
+    "name": "AdGuard CLI CA",
+    "url": "https://sub.neptunia.net.eu.org/share/file/AdGuard_CLI_CA.crt?token=9FD2cAo_hnEfjmrVVUT3k"
+  }
+]
